@@ -1,5 +1,6 @@
 ansible-modules-core
 ====================
+[![Build Status](https://travis-ci.org/Tiger66639/ansible-modules-core.svg)](https://travis-ci.org/Tiger66639/ansible-modules-core)
 
 This repo contains Ansible's most popular modules that are shipped with Ansible.
 
